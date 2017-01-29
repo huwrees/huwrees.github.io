@@ -1,0 +1,48 @@
+/*style sheet*/
+
+html {
+  background-color: #f5f7f9;
+}
+
+body {
+  background: none;
+  color: #69707a;
+  font-family: "Open Sans", Arial, sans-serif;
+}
+
+.card {
+  border-color: #ccc;
+}
+
+.card-title {
+  color: #e16879;
+  font-weight: 300;
+}
+
+.card-block small {
+  float: right;
+}
+
+.navbar {
+  background: #424242;
+}
+
+.profile-picture{
+	max-width: 100%;
+}
+
+.row {
+	margin-top: 20px;
+	margin-bottom: 20px;
+}
+
+.cog {
+	position: absolute;
+	right: 0px;
+	top: 10px;
+}
+
+/*.description {
+  background-image: url("http://payload.cargocollective.com/1/2/83586/1106214/prt_200x280_1428325832.png");
+  background-repeat: repeat-x;
+}*/
